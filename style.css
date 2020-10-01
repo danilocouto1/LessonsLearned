@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(253, 251, 251);
+}
+#cabecalho {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    ;
+    color: whitesmoke;
+    background-color: green;
+    
+  }
+  #titulo{
+      font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+      font-weight: 2000;
+      font-style: normal;
+      font-size: larger;
+      text-align: center;
+      line-height: normal;
+
+    color: whitesmoke;
+  }
+  #minha_foto {
+    width: 200px;
+    float: initial;
+  }
+  #licoes_aprendidas {
+    float: left;
+  }
+  #licoes_a_aprender {
+    float: inline-start;
+  }
